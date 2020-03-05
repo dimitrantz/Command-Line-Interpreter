@@ -5,8 +5,8 @@ version 1.0 last update: 20/1/2017
 
 Aristotle University of Thessaloniki
 Electrical and Computer Engineering Science
------------------------------------------------------------------------------------------------------
 
+## Description
 My_Shell - Operating System Project 2016-2017 is an effort to implement a shell or a command line 
 interpreter. This shell is made to work in interactive and in batch mode both and it is up to the 
 user to choose between these two modes. The programming language is C. 
