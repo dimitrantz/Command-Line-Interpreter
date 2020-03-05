@@ -1,11 +1,10 @@
-Aristotle University of Thessaloniki
-Electrical and Computer Engineering Science
-
-#My_Shell  
+# My_Shell  
 Operating System Project (7th semester Oct 2016 - Jan 2017)
 
 version 1.0 last update: 20/1/2017
 
+Aristotle University of Thessaloniki
+Electrical and Computer Engineering Science
 -----------------------------------------------------------------------------------------------------
 
 My_Shell - Operating System Project 2016-2017 is an effort to implement a shell or a command line 
@@ -13,8 +12,7 @@ interpreter. This shell is made to work in interactive and in batch mode both an
 user to choose between these two modes. The programming language is C. 
 
 
-##Code Files
-----------
+## Code Files
 
 Containing files in OS_project.rar: 
  
@@ -24,8 +22,7 @@ main.c (/src), execute.c (/src), helpers.c (/src),
 batchfile.bat (/bin)
 
 
-##Files' analysis
---------------
+## Files' analysis
 
 os_project.h: It is a header that contains all the functions used in this program except main().
 
@@ -76,8 +73,7 @@ helpers.c:
 	command.
 
 
-##Compile-Run
------------
+## Compile-Run
 
 
 In order to compile and run this project, a Linux terminal is needed. Follow the steps below to run 
@@ -93,10 +89,6 @@ Step 5: enter 'cd bin' to the command line
 Step 6: type ./My_Shell.exe to run the program in interactive mode OR
 	./My_Shell.exe batchfile.bat to run the program in batch mode
 
-
-
------------------------------------------------------------------------------------------------------
-
-##Author: Ntzioni Dimitra
+## Author: Ntzioni Dimitra
 Academic ID: 8209
 Contact info: dntztioni@ee.auth.gr
